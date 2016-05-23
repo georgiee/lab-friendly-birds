@@ -1,4 +1,7 @@
 # Friendly Birds - a not so angry birds clone
+
+[Preview](http://georgiee.github.io/lab-friendly-birds/)
+
 This was my journey into Angry Birds. I focused on the following components:
 
 + Camera System for PIXI
