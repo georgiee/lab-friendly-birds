@@ -1,0 +1,116 @@
+{"frames": {
+
+"kenny/elephant":
+{
+	"frame": {"x":2,"y":2,"w":348,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":348,"h":282},
+	"sourceSize": {"w":348,"h":282}
+},
+"kenny/giraffe":
+{
+	"frame": {"x":2,"y":286,"w":306,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":306,"h":322},
+	"sourceSize": {"w":306,"h":322}
+},
+"kenny/grassBlock_dead":
+{
+	"frame": {"x":518,"y":786,"w":71,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":70},
+	"sourceSize": {"w":71,"h":70}
+},
+"kenny/hippo":
+{
+	"frame": {"x":642,"y":261,"w":264,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":264},
+	"sourceSize": {"w":264,"h":264}
+},
+"kenny/house_grey_front":
+{
+	"frame": {"x":908,"y":261,"w":102,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":174},
+	"sourceSize": {"w":102,"h":174}
+},
+"kenny/monkey":
+{
+	"frame": {"x":352,"y":2,"w":308,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":308,"h":257},
+	"sourceSize": {"w":308,"h":257}
+},
+"kenny/mouse_walk":
+{
+	"frame": {"x":260,"y":903,"w":58,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":35},
+	"sourceSize": {"w":58,"h":35}
+},
+"kenny/panda":
+{
+	"frame": {"x":662,"y":2,"w":304,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":304,"h":257},
+	"sourceSize": {"w":304,"h":257}
+},
+"kenny/parrot":
+{
+	"frame": {"x":518,"y":527,"w":256,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":257},
+	"sourceSize": {"w":256,"h":257}
+},
+"kenny/penguin":
+{
+	"frame": {"x":776,"y":527,"w":256,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":257},
+	"sourceSize": {"w":256,"h":257}
+},
+"kenny/pig":
+{
+	"frame": {"x":352,"y":261,"w":288,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":257},
+	"sourceSize": {"w":288,"h":257}
+},
+"kenny/rabbit":
+{
+	"frame": {"x":2,"y":610,"w":256,"h":341},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":341},
+	"sourceSize": {"w":256,"h":341}
+},
+"kenny/snake":
+{
+	"frame": {"x":260,"y":610,"w":256,"h":291},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":291},
+	"sourceSize": {"w":256,"h":291}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "kenny.png",
+	"format": "RGBA8888",
+	"size": {"w":1034,"h":953},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e1320655bf95eb2fcbf3822cd571c95c:608b19790b086b4450cc8e1128afe89a:aafbc5bf1aca6a0145e65b1d2b0f17a5$"
+}
+}
